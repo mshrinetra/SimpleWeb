@@ -1,0 +1,14 @@
+body {
+  background-color: whitesmoke;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  margin: 0 10%;
+}
+
+.banner {
+  margin-top: 5%;
+  width: 100%;
+}
